@@ -44,4 +44,25 @@ for student in students:
     print("Admission team")
     
 print(f"Message  has been sent successfully to {len(students)} students!")
-print(students)
+print("\n Code is successfully running")
+# print(students)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
